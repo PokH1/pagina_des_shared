@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistemón</title>
+    <title>SistemÃ³n</title>
 </head>
 <body>
     <h1>Bienvenido al proyecto ABC</h1>
@@ -13,19 +13,19 @@
     <h2>Integrantes del equipo:</h2>
     <ul>
         <li>
-            <a href="./Anenqui">Descarga el cv de Anenqui Yolatl Pintado Venegas</a>
+            <a href="./Anenqui Yolatl Pintado Venegas.docx">Descarga el cv de Anenqui Yolatl Pintado Venegas</a>
         </li>
         <li>
-            <a href="./cverick.pdf">Descarga el cv de Erick Solórzano López</a>
+            <a href="./cverick.pdf">Descarga el cv de Erick Solorzano Lopez</a>
         </li>
         <li>
             <a href="./cvrodrigo.docx">Descarga el cv de Rodrigo Jordan Hernandez Cruz</a>
         </li>
         <li>
-            <a href="./Mario">Descarga el cv de Juan Mario Morales Castellanos</a>
+            <a href="./Juan Mario Morales CAstellanos.docx">Descarga el cv de Juan Mario Morales Castellanos</a>
         </li>
         <li>
-            <a href="./Gaby.docx">Descarga el cv de Gabriela Rodríguez Ovando</a>
+            <a href="./Gabriela Rodriguez Ovando.pdf">Descarga el cv de Gabriela Rodri­guez Ovando</a>
         </li>
     <ul>
 </body>
