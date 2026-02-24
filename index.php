@@ -16,10 +16,10 @@
             <a href="./Anenqui">Descarga el cv de Anenqui Yolatl Pintado Venegas</a>
         </li>
         <li>
-            <a href="./Erick">Descarga el cv de Erick Solórzano López</a>
+            <a href="./cverick.pdf">Descarga el cv de Erick Solórzano López</a>
         </li>
         <li>
-            <a href="./Rodrigo">Descarga el cv de Rodrigo Jordan Hernandez Cruz</a>
+            <a href="./cvrodrigo.docx">Descarga el cv de Rodrigo Jordan Hernandez Cruz</a>
         </li>
         <li>
             <a href="./Mario">Descarga el cv de Juan Mario Morales Castellanos</a>
